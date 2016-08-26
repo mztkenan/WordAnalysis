@@ -1,0 +1,25 @@
+Mailing List
+Questions or comments for the Git community can be sent to the mailing list by using the email address git@vger.kernel.org. Bug reports for git should be sent to this mailing list.
+
+You do not need to subscribe: you will be Cc'd in replies. Please keep the Cc list intact when replying (use "Reply to all"). Greylisting may delay your first post for a few hours. Note also that the list only accepts plain-text email; please disable HTML in your outgoing messages.
+
+The archive can be found on Gmane. Click here to subscribe. If you have trouble sending to the list with your regular mail reader, you may also post via gmane.
+
+Windows-specific questions can also be sent to the Git for Windows mailing list (if in doubt whether your question is Windows-specific, just use the general Git mailing list). Please submit Windows-specific bugs to Git for Windows' bug tracker.
+
+There is also Git user mailing list on Google Groups which is a nice place for beginners to ask about anything.
+
+Bug Reporting
+Bugs in git can be reported directly to the mailing list (see above for details). Note that you do not need to subscribe to the list to send to it. You can help us out by attempting to reproduce the bug in the latest released version of git, or if you're willing to build git from source, the next branch. Sometimes an attempted fix may be pending in this branch, in which case your feedback as to whether the fix worked for you will be appreciated.
+
+Bugs related to this website can be reported at its issue tracker. Bugs related to the content of the "Pro Git" book can be reported at its issue tracker.
+
+If you are new to submitting bugs, you might find this guide helpful for producing useful bug reports.
+
+IRC Channel
+If the manpages and this book aren¡¯t enough and you need in-person help, you can try the #git channel on the Freenode IRC server (irc.freenode.net). These channels are regularly filled with hundreds of people who are all very knowledgeable about Git and are often willing to help.
+
+If you need specific help about one of the for-profit Git hosting sites, you might try their own IRC channels (such as #github or #gitlab) on the same IRC server.
+
+Contributing to Git
+The Documentation directory in the Git source code has several files of interest to developers who are looking to help contribute. After reading the coding guidelines, you can learn how to submit patches. For those looking to get more deeply involved, there is a howto for Git maintainers.

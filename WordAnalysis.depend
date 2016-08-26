@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1470750250 source:c:\users\уб╠С╠С\documents\workspace\wordanalysis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1470749155 source:d:\wordanalysis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
